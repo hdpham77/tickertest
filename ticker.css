@@ -1,0 +1,83 @@
+<style>
+.div2 {
+  width: 410px;
+  height: 50px;
+  background: #1F6D92;
+  text-align: center;
+  border: 3px solid blue;
+  border-color: #1F6D92;
+  }
+  
+ 
+.row {
+  display: flex;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: -20px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+
+
+ #border {
+  width: 410px;
+  height: 120px;
+  border: 3px solid blue;
+  border-color: #1F6D92;
+  text-align: center;
+  }
+  
+
+
+#maintitle {
+ font-size: 25px;
+    font-family: 'Droid Sans Mono', 'Courier New', Courier, monospace;
+    display: inline-block;
+    padding: -15px 5px;
+    margin: 8px  2px;
+    color: #fff;
+  }
+  #current-carbon-emissions_gtc {
+    font-size: 15px;
+    font-family: 'Droid Sans Mono', 'Courier New', Courier, monospace;
+    display: inline-block;
+    padding: 5px 5px;
+    background: #1F6D92;
+    margin: 5px 0 5px;
+    color: #fff;
+}
+
+
+#current-temp-rise {
+    font-size: 15px;
+    font-family: 'Droid Sans Mono', 'Courier New', Courier, monospace;
+    display: inline-block;
+     padding: 5px 5px;
+    background: #1F6D92;
+    margin: 5px 0 5px;
+    color: #fff;
+}
+
+#current-temp-rise span {
+    font-size: 15px;
+    font-family: 'Droid Sans Mono', 'Courier New', Courier, monospace;
+    display: inline-block;
+    padding: 0px 0px;
+    background: #1F6D92;
+    margin: 0px 0 0px;
+    color: #fff;
+}
+#current-carbon-emissions {
+    font-size: 15px;
+    font-family: 'Droid Sans Mono', 'Courier New', Courier, monospace;
+    display: inline-block;
+     padding: 5px 5px;
+    background: #1F6D92;
+    margin: 5px 0 5px;
+    color: #fff;
+}
+
+</style>
