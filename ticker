@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+
+<br>
+
+<div class="div2">
+ <div id="maintitle">
+
+<h4>Climate Change Tracker</h4></div></div>            
+
+<div id="border">
+<br><div class="row">
+  <div class="column">Global carbon emissions<br>since the mid-1800s
+
+  <div id="current-carbon-emissions_gtc">
+<span>-------------------------------</span> 
+
+</div>
+</div>
+
+  <div class="column">Global carbon emissions<br>since the mid-1800s<br>
+ <div id="current-carbon-emissions">
+     +<span>----------------</span>°F
+
+</div>
+</div>
+ 
+</div></div>
+<div class="paper">
+	<svg id="graph" width="0" height="0"></svg>
+
+</div>
+
+
+</body>
+</html>
